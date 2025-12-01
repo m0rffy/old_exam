@@ -1,0 +1,63 @@
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.csproj.AssemblyReference.cache
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.MainForm.resources
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.Properties.Resources.resources
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.csproj.GenerateResource.cache
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.csproj.CoreCompileInputs.cache
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.UpdateInputForm.resources
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.exe
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.pdb
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\variant1.exe.config
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\variant1.exe
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\variant1.pdb
+E:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.panel.resources
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.csproj.AssemblyReference.cache
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.MainForm.resources
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.Properties.Resources.resources
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.UpdateInputForm.resources
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.panel.resources
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.csproj.GenerateResource.cache
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.csproj.CoreCompileInputs.cache
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\variant1.exe.config
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.exe
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.pdb
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\variant1.exe
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\variant1.pdb
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.exe.config
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.csproj.AssemblyReference.cache
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.MainForm.resources
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.Properties.Resources.resources
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.UpdateInputForm.resources
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.panel.resources
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.csproj.GenerateResource.cache
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.csproj.CoreCompileInputs.cache
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\variant1.exe.config
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.exe
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Debug\variant1.pdb
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\variant1.exe
+F:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\variant1.pdb
+C:\Users\Пользователь\Desktop\variant1\obj\Debug\variant1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\variant1\obj\Debug\variant1.MainForm.resources
+C:\Users\Пользователь\Desktop\variant1\obj\Debug\variant1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\variant1\obj\Debug\variant1.UpdateInputForm.resources
+C:\Users\Пользователь\Desktop\variant1\obj\Debug\variant1.panel.resources
+C:\Users\Пользователь\Desktop\variant1\obj\Debug\variant1.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\variant1\obj\Debug\variant1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\variant1\variant1.exe.config
+C:\Users\Пользователь\Desktop\variant1\obj\Debug\variant1.exe
+C:\Users\Пользователь\Desktop\variant1\obj\Debug\variant1.pdb
+C:\Users\Пользователь\Desktop\variant1\variant1.exe
+C:\Users\Пользователь\Desktop\variant1\variant1.pdb
+C:\Users\Пользователь\Desktop\variant1\obj\Debug\variant1.exe.config
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\obj\Debug\variant1.csproj.AssemblyReference.cache
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\obj\Debug\variant1.MainForm.resources
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\obj\Debug\variant1.Properties.Resources.resources
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\obj\Debug\variant1.UpdateInputForm.resources
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\obj\Debug\variant1.panel.resources
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\obj\Debug\variant1.csproj.GenerateResource.cache
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\obj\Debug\variant1.csproj.CoreCompileInputs.cache
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\variant1.exe.config
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\obj\Debug\variant1.exe
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\obj\Debug\variant1.pdb
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\variant1.exe
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\variant1.pdb
+D:\DATA\курсовые\Гультяев(курсовая Ярочкина)\variant1\obj\Debug\variant1.exe.config

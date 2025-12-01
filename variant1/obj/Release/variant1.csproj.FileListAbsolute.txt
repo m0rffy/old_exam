@@ -1,0 +1,7 @@
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Release\variant1.csproj.AssemblyReference.cache
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Release\variant1.CardsForm.resources
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Release\variant1.MainForm.resources
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Release\variant1.Properties.Resources.resources
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Release\variant1.UpdateForm.resources
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Release\variant1.csproj.GenerateResource.cache
+D:\DATA\ДЭ ИП\Задания\Вариант_1\Приложение\Ресурсы\variant1\obj\Release\variant1.csproj.CoreCompileInputs.cache
